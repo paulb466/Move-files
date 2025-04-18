@@ -5,4 +5,4 @@ With this script I simply enter the script name along with the file or folder I 
 
 
 <img src="preview1.jpg" width="348">
-<img src="preview2.jpg" width="348">
+<img src="preview2.jpg" width="448">
