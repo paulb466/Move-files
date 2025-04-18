@@ -6,10 +6,7 @@ if [ $# -eq 0 ]; then
     exit 1
 fi
 
-
 cur_dir=$(pwd)
-#echo "You are currently in: $cur_dir"
-
 
 # Check if the file exists
 if [ -e "$cur_dir"/"$1" ]; then
