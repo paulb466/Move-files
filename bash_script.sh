@@ -6,11 +6,6 @@ if [ $# -eq 0 ]; then
     exit 1
 fi
 
-# Echo the filename provided as the first argument
-#echo "Filename provided: $1"
-
-
-
 
 cur_dir=$(pwd)
 #echo "You are currently in: $cur_dir"
