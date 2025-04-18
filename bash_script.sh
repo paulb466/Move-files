@@ -24,7 +24,7 @@ if [ -e "$cur_dir"/"$1" ]; then
     echo "1 - movies"
     echo "2 - christmas_movies"
     echo "3 - kids_movies"
-    echo "4 - documenatries"
+    echo "4 - documentaries"
 
     echo "5 - tv_shows"
     echo "6 - kids_tv_shows"
